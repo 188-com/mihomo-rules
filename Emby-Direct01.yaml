@@ -1,10 +1,15 @@
 
 payload:
+  #  Cola Emby线路
+  # 美国SJC三网优化．白名单
   - 'emby-sjc.misaka.si'
+  # 日本东京三网优化．白名单
   - 'emby-vip.misaka.si'
+
+  # 乐观Emby，白名单线路
   - 'xyemby.kingba.com'
   - 'c167-obsdaz-ykj-01.obs.dualstack.cidc-rp-2006.joint.cmecloud.cn'
+
+  # 宸澄Emby，白名单线路
   - 'ccmedia.wybcs.work'
-  - 'www.yuntv.de'
-  - 'xg.yuntv.de'
-  - 'ykj-eos-dg5-01.eos-dongguan-6.cmecloud.cn'
+  
